@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=490fdf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+William+de+Souza;Sou+de+Marília/SP;Graduado+em+Redes+de+Computadores;Seja+bem+vindo(a)!+👋+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+William+de+Souza;Sou+de+Marília/SP;Graduado+em+Redes+de+Computadores;Seja+bem+vindo(a)!+👋+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WilliamdeSouzaM7&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WilliamdeSouzaM7&bg_color=FF0000&color=FFBF00&line=04B404&point=F7FE2E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="William de Souza github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&count_private=true&hide_border=true&title_color=151515&icon_color=151515&text_color=151515&bg_color=FFBF00" alt="William de Souza github stats" /> 
   
  <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&theme=midnight-purple&show_icons=true) -->
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=088A08" />
   
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WilliamdeSouzaM7&theme=dark&hide_border=true" width = 400>
 
@@ -86,4 +86,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/williamdesouza0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/williamdesouza00" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"target="_blank"></a></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=120&section=footer"/>

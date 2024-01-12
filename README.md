@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C1C1C&size=35&center=true&vCenter=true&width=1000&lines=Olá,Seja+bem+vindo(a)!+👋+:%29;+Meu+nome+é+William+de+Souza;Graduado+em+Redes+de+Computadores)](https://git.io/typing-svg)
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WilliamdeSouzaM7&bg_color=151515&color=FFBF00&line=04B404&point=F7FE2E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&count_private=true&hide_border=true&title_color=FFBF00&icon_color=00FF00&text_color=FFFFFF&bg_color=151515" alt="William de Souza github stats" /> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&hide_border=true&title_color=FFBF00&text_color=FFFFFF&bg_color=151515" />
   
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=WilliamdeSouzaM7&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WilliamdeSouzaM7&theme=dark&hide_border=true" width = 400>
 
   
 </div>

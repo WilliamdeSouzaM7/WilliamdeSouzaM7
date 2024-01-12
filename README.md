@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&hide_border=true&title_color=FFBF00&text_color=FFFFFF&bg_color=151515" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
   
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WilliamdeSouzaM7&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WilliamdeSouzaM7&theme=transparent&hide_border=true" width = 400>
 
   
 </div>

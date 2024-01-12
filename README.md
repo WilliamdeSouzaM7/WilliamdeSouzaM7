@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&count_private=true&hide_border=true&title_color=FFBF00&icon_color=00FF00&text_color=FFFFFF&bg_color=151515" alt="William de Souza github stats" /> 
   
- <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&theme=midnight-purple&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&hide_border=true&title_color=FFBF00&text_color=FFFFFF&bg_color=151515" />
   

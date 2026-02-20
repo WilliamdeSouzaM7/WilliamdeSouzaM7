@@ -1,23 +1,41 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=150&section=header&text=William%20de%20Souza&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF"/>
+<!--
+**WilliamdeSouzaM7/WilliamdeSouzaM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1C1C1C&size=30&center=true&vCenter=true&width=1000&lines=Analista+de+Redes+e+Infraestrutura;Cloud+Specialist+%7C+GCP+%7C+AWS+%7C+Azure;Desenvolvedor+Python+%26+Java;Graduado+em+Redes+de+Computadores" />
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=150&section=header&text=William%20de%20Souza&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=F5F5F5&height=150&section=header&text=William%20de%20Souza&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=1C1C1C">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Analista+de+Redes+e+Infraestrutura;Cloud+Specialist+%7C+GCP+%7C+AWS+%7C+Azure;Graduado+em+Redes+de+Computadores">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=1C1C1C&size=30&center=true&vCenter=true&width=1000&lines=Analista+de+Redes+e+Infraestrutura;Cloud+Specialist+%7C+GCP+%7C+AWS+%7C+Azure;Graduado+em+Redes+de+Computadores">
+  </picture>
 </div>
 
 ---
 
-### ⚡ Um pouco sobre mim
+### ⚡ Sobre Mim
+Sou graduado em **Redes de Computadores**, com foco em alta disponibilidade e ecossistemas Multi-Cloud. Minha expertise transita entre a robustez da infraestrutura física e a agilidade da nuvem.
 
-Sou um profissional apaixonado por infraestrutura de alta disponibilidade e automação. Com formação sólida em **Redes de Computadores**, foco minha energia em arquiteturas Cloud modernas e na ponte entre o desenvolvimento e a operação (DevOps).
-
-- 🔭 **Atualmente:** Focado em soluções de infraestrutura escaláveis e segurança de redes.
-- 🌱 **Evoluindo em:** Especialização em Microsoft Azure e Kubernetes avançado.
-- 💬 **Pergunte-me sobre:** Virtualização, Redes, Cloud Computing e Automação com Python.
-- 📫 **Contato:** [william.souza@mind7solucoes.com.br](mailto:william.souza@mind7solucoes.com.br)
+- 🔭 **Foco:** Automação de infraestrutura e segurança de borda.
+- 🌱 **Aprendendo:** Especialização em Azure e arquiteturas Serverless.
+- 💬 **Expertise:** Virtualização (Proxmox/Virtuozzo), Linux (RedHat/Ubuntu) e Cloud.
 
 ---
 
-### 🛠️ Skills & Ecosystem
+### 🛠️ Tech Stack & Infrastructure
 
 <details open>
   <summary><b>Cloud & Infrastructure (Current Focus)</b></summary>
@@ -56,21 +74,19 @@ Sou um profissional apaixonado por infraestrutura de alta disponibilidade e auto
 
 ---
 
-### 📊 Github Analytics
+### 📊 Estatísticas (Auto-Adaptive Theme)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamdeSouzaM7&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
 
-### 🤝 Conecte-se comigo
-
+### 🤝 Conecte-se
 <div align="center">
   <a href="https://www.linkedin.com/in/williamdesouza0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

@@ -1,86 +1,93 @@
-<!--
-**WilliamdeSouzaM7/WilliamdeSouzaM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=150&section=header&text=William%20de%20Souza&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C1C1C&size=35&center=true&vCenter=true&width=1000&lines=Olá,Seja+bem+vindo(a)!+👋+:%29;+Meu+nome+é+William+de+Souza;Graduado+em+Redes+de+Computadores)](https://git.io/typing-svg)
-
-<div align="center">  
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&show_icons=true&theme=transparent)
-  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WilliamdeSouzaM7&theme=transparent&hide_border=true" width = 400>
-
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1C1C1C&size=30&center=true&vCenter=true&width=1000&lines=Analista+de+Redes+e+Infraestrutura;Cloud+Specialist+%7C+GCP+%7C+AWS+%7C+Azure;Desenvolvedor+Python+%26+Java;Graduado+em+Redes+de+Computadores" />
 </div>
 
-### My top 10 technologies📊 📈
+---
 
-|![PYTHON](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic)|![](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/-Android-black?logo=android&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)|
+### ⚡ Um pouco sobre mim
 
-### - Atualmente estou trabalhando em:<br>
+Sou um profissional apaixonado por infraestrutura de alta disponibilidade e automação. Com formação sólida em **Redes de Computadores**, foco minha energia em arquiteturas Cloud modernas e na ponte entre o desenvolvimento e a operação (DevOps).
 
+- 🔭 **Atualmente:** Focado em soluções de infraestrutura escaláveis e segurança de redes.
+- 🌱 **Evoluindo em:** Especialização em Microsoft Azure e Kubernetes avançado.
+- 💬 **Pergunte-me sobre:** Virtualização, Redes, Cloud Computing e Automação com Python.
+- 📫 **Contato:** [william.souza@mind7solucoes.com.br](mailto:william.souza@mind7solucoes.com.br)
 
- <img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img alt="HTML" title="Html5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img alt="Android" title="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">|<img alt="Vs-Code" title="Vs-Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">|<img alt="BitBucket" title="BitBucket" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">|<img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">|<img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-|--|--|--|--|--|--|--|--|--|
+---
 
-<br>**Atualmente estou aprendendo...** <br>
-![MS-AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+### 🛠️ Skills & Ecosystem
 
-<br>**Quero Aprender:**
+<details open>
+  <summary><b>Cloud & Infrastructure (Current Focus)</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
+</details>
 
-**Programming Languages**
+<br/>
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|
+<details>
+  <summary><b>Web & Hosting Panels</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectAdmin-FF9900?style=flat-square&logo=directadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plesk-52BCE3?style=flat-square&logo=plesk&logoColor=white" />
+</details>
 
-**Tools**
+<br/>
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|
+<details>
+  <summary><b>Development & Data Science</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+</details>
 
-**Infrastructure**
+---
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|--|
+### 📊 Github Analytics
 
-**Databases**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamdeSouzaM7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdeSouzaM7&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamdeSouzaM7&theme=tokyonight&hide_border=true" />
+</div>
 
-**Libraries and Frameworks**
+---
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
-|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+### 🤝 Conecte-se comigo
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/williamdesouza0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mind7solucoes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:william.souza@mind7solucoes.com.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/williamdesouza00" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
+<br/>
 
-### Redes Sociais:<br>
-<div> 
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/mind7solucoes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <!-- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-   <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:william.souza@mind7solucoes.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/williamdesouza0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/williamdesouza00" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"target="_blank"></a></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=100&section=footer"/>
+</div>
